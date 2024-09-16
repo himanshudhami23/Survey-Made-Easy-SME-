@@ -1,0 +1,9 @@
+{
+  "/signin/page": "app/signin/page.js",
+  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/submit/[formUrl]/page": "app/submit/[formUrl]/page.js",
+  "/(dashboard)/page": "app/(dashboard)/page.js",
+  "/(dashboard)/builder/[id]/page": "app/(dashboard)/builder/[id]/page.js",
+  "/(dashboard)/forms/[id]/page": "app/(dashboard)/forms/[id]/page.js"
+}
